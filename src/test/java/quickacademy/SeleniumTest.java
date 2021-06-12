@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("BrowserAutomation");
+		System.out.println("X 2nd day Github modified 3");
 	}
 	
 	@Test

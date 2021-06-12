@@ -10,6 +10,8 @@ public class AppiumTest {
 		System.out.println("NativeAppAndroid");
 System.out.println("Github updated");
 System.out.println("Github updatded 2");
+System.out.println("X 2nd day Github modified");
+System.out.println("X 2nd day Github modified 2");
 
 	}
 	
